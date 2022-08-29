@@ -1,1 +1,1 @@
-This is repository for practice Hadoop Definitive Guide
+This is repository for practicing Hadoop Definitive Guide
